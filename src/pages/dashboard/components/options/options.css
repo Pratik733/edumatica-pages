@@ -1,0 +1,46 @@
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+.jss436{
+    border: 1px solid rgb(76, 139, 245);
+    padding: 25px 25px 25px 60px;
+    margin-top: 25px;
+    border-radius: 14px;
+    background-color: rgb(255, 255, 255);
+}
+
+.jss443{
+    margin: 8px;
+    display: flex;
+    padding: 8px;
+    flex-direction: row;
+}
+
+.jss445{
+    padding: 8px;
+}
+
+.jss352{
+    width: 70px;
+    height: 70px;
+    padding: 20px;
+    background: #EFF5FF;
+    border-radius: 14px;
+}
+.jss356{
+    color: #3D3D3D;
+    cursor: pointer;
+}
+
+.jss353{
+    margin-top: 15px;
+    font-weight: 500;
+}
+
+.jss358{
+    color: #C0C0C0;
+    cursor: context-menu;
+    font-size: 15px;
+    white-space: pre;
+}

@@ -1,0 +1,39 @@
+.jss87{
+    margin-top: 25px;
+}
+
+.jss88{
+    padding: 25px;
+    border-radius: 14px;
+    background-color: rgb(255, 255, 255);
+}
+.jss89{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.jss91{
+    margin-left: 10px;
+}
+
+#jss13{
+    color: #3D3D3D;
+    cursor: context-menu;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.jss92{
+    padding: 10px;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: 500;
+    line-height: 18px;
+    border-radius: 4px;
+    letter-spacing: 1.25px;
+    text-transform: capitalize;
+}
+
+.jss93{
+    background: rgb(76, 139, 245);
+}

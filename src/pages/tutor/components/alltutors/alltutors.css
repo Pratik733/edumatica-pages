@@ -1,0 +1,32 @@
+.jss85{
+    color: rgb(255, 255, 255);
+    padding: 20px 30px;
+    position: relative;
+    border-radius: 14px;
+    margin-bottom: 30px;
+    background-color: rgb(76, 139, 245);
+}
+
+.jss288 {
+    width: 100%;
+    padding-top: 12px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#jss287{
+    font-size: 35px;
+}
+
+.jss370 {
+    background-color: white; 
+    color: #4C8BF5;
+    padding: 10px;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: 500;
+    line-height: 18px;
+    border-radius: 4px;
+    letter-spacing: 1.25px;
+    text-transform: capitalize;
+}

@@ -1,0 +1,15 @@
+.jss2610 {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.jss2611 {
+    padding: 8px;
+
+}
+
+.jss2612 {
+    padding: 8px;
+    display: flex;
+    align-items: center;
+}
